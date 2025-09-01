@@ -1,0 +1,30 @@
+body {
+    font-family: 'Montserrat';
+}
+.grupo {
+    border: 2px solid black;
+}
+
+.pixel {
+    width: 500px;
+}
+
+.porcentagem {
+    width: 50%;
+}
+
+.viewportwidth {
+    width: 58vw;
+}
+
+.viewporthight {
+    height: 15vh;
+}
+
+.em {
+    font-size: 2em;
+}
+
+.rem {
+    font-size: 2rem;
+}
